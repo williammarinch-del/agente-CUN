@@ -1,0 +1,6 @@
+{
+  "name": "CAJA CUN",
+  "description": "Control financiero básico para pequeños negocios y microempresas en pesos colombianos (COP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
